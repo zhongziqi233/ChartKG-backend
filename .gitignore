@@ -3,6 +3,8 @@
 *.png
 *.jpg
 *.jpeg
+*.txt
+./classifyModel
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
