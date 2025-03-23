@@ -4,8 +4,8 @@
 *.jpg
 *.jpeg
 *.txt
-./classifyModel
-./yoloModels
+./classifyModel/
+./yoloModels/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
